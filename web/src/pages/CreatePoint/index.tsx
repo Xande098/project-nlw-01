@@ -134,7 +134,7 @@ const CreatePoint = () => {
         const item = selectedItems;
 
         const data = new FormData();
-       
+
         data.append('name', name);
         data.append('email', email);
         data.append('whatsapp', whatsapp);
@@ -143,10 +143,10 @@ const CreatePoint = () => {
         data.append('latitude', String(latitude));
         data.append('longitude', String(longitude));
         data.append('item', item.join(','));
-        
+
         if (selectedFile) {
             data.append('image', selectedFile)
-        }  
+        }
 
         await api.post('point', data);
 
