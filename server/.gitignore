@@ -3,3 +3,6 @@ uploads/*
 !uploads/.gitkeep
 
 *.sqlite
+
+package-lock.json
+yarn.lock
