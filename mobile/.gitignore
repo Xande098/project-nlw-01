@@ -13,6 +13,3 @@ web-report/
 # macOS
 .DS_Store
 
-# Arquivos desnecessários
-package-lock.json
-yarn.lock

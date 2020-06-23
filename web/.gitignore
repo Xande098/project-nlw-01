@@ -21,7 +21,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# arquivos desnecessários
-package-lock.json
-yarn.lock
