@@ -45,7 +45,7 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-Booster?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
 ## :information_source: Como usar
-Para clonar e executar este aplicativo, você precisará [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] instalado no seu computador.
+Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) instalados no seu computador.
 Use as linhas de comando:
 ### Instale na API 
 ```bash
@@ -105,6 +105,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com muito empenho by Alexandre Sobota
+#### Feito com muito empenho by Alexandre Sobota
 
 #### Perfil Linkedin: https://www.linkedin.com/in/alexandre-sobota-95839ba2
