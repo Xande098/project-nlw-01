@@ -105,6 +105,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-#### Feito com muito empenho by Alexandre Sobota
-
-#### Perfil Linkedin: https://www.linkedin.com/in/alexandre-sobota-95839ba2
+Feito com ♥ por Alexandre Sobota :wave: [Get in touch!](https://www.linkedin.com/in/alexandre-sobota)
